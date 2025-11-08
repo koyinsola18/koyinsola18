@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 # 💫 About Me:
-Hi there! I'm **Koyinsola**, a 3rd year Computing Science student at the University of Alberta with a passion for building creative, human-centered technology at the intersection of AI, health, and design. <br><br>I’m currently working on a magical-themed personal portfolio (inspired by my love for Harry Potter 🧙🏽‍♀️) and a biofeedback app that uses anomaly detection on physiological signals to promote calm through audio/visual feedback.  <br>🤝 I’m looking to collaborate on Open-source healthtech or creative tech projects that involve frontend design, interactivity, or AI/ML.<br>💬 Ask me about building impactful student communities, AI for inclusive healthcare, or how I use design + ML to create human-centered tech.
+Hi there! I'm **Koyinsola**, a 3rd year Computing Science student at the University of Alberta with a passion for building creative, human-centered technology at the intersection of AI, health, and design. <br><br>I’m currently working on a biofeedback app that uses anomaly detection on physiological signals to promote calm through audio/visual feedback.  <br>🤝 I’m looking to collaborate on Open-source healthtech or creative tech projects that involve frontend design, interactivity, or AI/ML.<br>💬 Ask me about building impactful student communities, AI for inclusive healthcare, or how I use design + ML to create human-centered tech.
 
 
 ## 🌐 Socials:
